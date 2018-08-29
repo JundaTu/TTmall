@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "mybatis0523",
+                "projectName": "mybatis0523",
+                "workingDirectory": "/Users/tujunda/eclipse-workspace/mybatis0523",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "mybatis0523",
+                "projectName": "mybatis0523",
+                "workingDirectory": "/Users/tujunda/eclipse-workspace/mybatis0523",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
